@@ -18,12 +18,7 @@
 
 ### Other knowledges:
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/devpou/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+---
+
+![](https://komarev.com/ghpvc/?username=devpou&color=006bed&style=for-the-badge)
+
