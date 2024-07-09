@@ -15,9 +15,9 @@
 </div><br/>
 
 ### Studying in this moment:
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div><br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+<br/>
 
 ### Other knowledges:
 
