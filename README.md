@@ -11,10 +11,13 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
+### Studying in this moment:
+
+### Other knowledges:
+
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/devpou/count.svg"
