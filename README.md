@@ -5,7 +5,7 @@
 
 ![Pou GitHub stats](https://github-readme-stats.vercel.app/api?username=devpou&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpou)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpou&layout=compact)](https://www.linkedin.com/in/joaovictorlilm)
 
 ### Technologies that I use in my day to day:
 
