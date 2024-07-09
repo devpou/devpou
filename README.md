@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpou&layout=compact)](https://www.linkedin.com/in/joaovictorlilm)
 ---
-### Technologies that I use in my day to day:
+### Main skills:
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
