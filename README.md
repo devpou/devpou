@@ -25,3 +25,5 @@
 
 ![](https://komarev.com/ghpvc/?username=devpou&color=006bed&style=for-the-badge)
 
+![Snake animation](https://github.com/devpou/devpou/blob/output/github-contribution-grid-snake.svg)
+
