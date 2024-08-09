@@ -3,9 +3,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovictorlilm)
 
 ---
-![Pou GitHub stats](https://github-readme-stats.vercel.app/api?username=devpou&show_icons=true&theme=dracula)
+![Pou GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorlilm&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpou&layout=compact)](https://www.linkedin.com/in/joaovictorlilm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorlilm&layout=compact)](https://www.linkedin.com/in/joaovictorlilm)
 
 ---
 
